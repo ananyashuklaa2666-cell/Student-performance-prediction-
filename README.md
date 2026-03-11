@@ -69,21 +69,21 @@ Important factors affecting prediction:
 - Scikit-learn  
 - Jupyter Notebook
 ## Project Structure
+
+```
 Student-Performance-Prediction
-│
-├── data
-│   └── StudentsPerformance.csv
 │
 ├── notebook
 │   └── student_performance.ipynb
 │
 ├── images
-│   ├── project_overview_diagram.png
-│   ├── distribution_of_math_scores.png
-│   ├── feature_correlation_heatmap.png
-│   └── confusion_matrix.png
+│   ├── math_score_distribution.png
+│   ├── reading_score_distribution.png
+│   └── writing_score_distribution.png
 │
 └── README.md
+```
+
 ## How to Run the Project
 
 Clone the repository
