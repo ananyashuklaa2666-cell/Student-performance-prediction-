@@ -8,26 +8,28 @@ Student performance prediction is an important task in education analytics. By a
 In this project, machine learning algorithms are used to predict student performance based on different factors such as gender, parental education, lunch type, and test preparation course.
 ## Dataset
 Dataset used: Student Performance Dataset
-## Features included
-•Gender
-•Race/Ethnicity
-•Parental Level of Education
-•Lunch Type
-•Test Preparation Course
-•Math Score
-•Reading Score
-•Writing Score
-# Machine Learning Workflow
-1-Import Libraries
-2-Load Dataset
-3-Dataset Exploration
-4-Feature Engineering
-5-Label Encoding
-6-Exploratory Data Analysis
-7-Train-Test Split
-8-Logistic Regression Model
-9-Random Forest Model
-10-Model Evaluation
+## Features Included
+
+- Gender  
+- Race/Ethnicity  
+- Parental Level of Education  
+- Lunch Type  
+- Test Preparation Course  
+- Math Score  
+- Reading Score  
+- Writing Score
+## Machine Learning Workflow
+
+1. Import Libraries  
+2. Load Dataset  
+3. Dataset Exploration  
+4. Feature Engineering  
+5. Label Encoding  
+6. Exploratory Data Analysis  
+7. Train-Test Split  
+8. Logistic Regression Model  
+9. Random Forest Model  
+10. Model Evaluation
 # Exploratory Data Analysis
 
 ## Distribution of Math Scores
