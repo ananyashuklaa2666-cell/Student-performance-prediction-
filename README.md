@@ -73,7 +73,8 @@ Student-Performance-Prediction
 └── README.md
 # How to Run the Project
 ## Clone the repository
-git clone https://github.com/yourusername/student-performance-prediction.git
+git clone https://github.com/ananyashuklaa2666-cell/Student-performance-prediction-.git
 ## Install required libraries
 pip install pandas numpy matplotlib seaborn scikit-learn
-Run the notebook step-by-step to see the data analysis, visualizations, and machine learning predictions.
+## Open the notebook
+jupyter notebook notebook/student_performance.ipynb
