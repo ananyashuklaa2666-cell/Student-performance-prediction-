@@ -34,11 +34,11 @@ Dataset used: Student Performance Dataset
 This histogram shows the distribution of Math score among students and helps understand the performance trend.
 ## Feature Correlation Heatmap
 This heatmap shows the correlation between different features such as Math, Reading, and Writing scores.
-
+![Project Overview Diagram](IMG-20260311-WA0004.jpg)
 # Model Training
 Two machine learning models were used in this project:
-1-Logistic Regression – a baseline classificat![Project Overview Diagram](IMG-20260311-WA0004.jpg)ion model
-2-Random Forest Classifier – an ensemble learning model that usually performs better for classification problems
+1-Logistic Regression – a baseline classification model.
+2-Random Forest Classifier – an ensemble learning model that usually performs better for classification problems.
 # Model Evaluation
 ## Confusion Matrix
 The following metrics were used to evaluate the models:
