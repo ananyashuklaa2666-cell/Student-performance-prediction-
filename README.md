@@ -103,3 +103,8 @@ Open the notebook
 ```
 jupyter notebook notebook/student_performance.ipynb
 ```
+## Author
+
+**Ananya Shukla**
+
+Interested in Data Science, Machine Learning, and Data Analysis.
