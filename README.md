@@ -84,10 +84,22 @@ Student-Performance-Prediction
 │   └── confusion_matrix.png
 │
 └── README.md
-# How to Run the Project
-## Clone the repository
-git clone https://github.com/ananyashuklaa2666-cell/Student-performance-prediction-.git
-## Install required libraries
+## How to Run the Project
+
+Clone the repository
+
+```
+git clone https://github.com/yourusername/Student-Performance-Prediction.git
+```
+
+Install required libraries
+
+```
 pip install pandas numpy matplotlib seaborn scikit-learn
-## Open the notebook
+```
+
+Open the notebook
+
+```
 jupyter notebook notebook/student_performance.ipynb
+```
