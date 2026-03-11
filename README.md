@@ -52,14 +52,15 @@ Important factors affecting prediction:
 •Math Score
 •Reading Score
 •Writing Score
-# Technologies Used
-•Python
-•Pandas
-•NumPy
-•Matplotlib
-•Seaborn
-•Scikit-Learn
-•Jupyter Notebook
+## Technologies Used
+
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
+- Jupyter Notebook
 ## Project Structure
 Student-Performance-Prediction
 │
