@@ -53,12 +53,15 @@ Two machine learning models were used in this project:
 The following metrics were used to evaluate the models:
 - Accuracy Score
 - Confusion Matrix
-# Results
+- ## Results
+
 After training both models, the Random Forest model performed better than Logistic Regression in predicting student performance.
-Important factors affecting prediction:
-•Math Score
-•Reading Score
-•Writing Score
+
+**Important factors affecting prediction:**
+
+- Math Score
+- Reading Score
+- Writing Score
 ## Technologies Used
 
 - Python  
