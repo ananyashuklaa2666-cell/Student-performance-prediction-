@@ -39,8 +39,15 @@ This heatmap shows the correlation between different features such as Math, Read
 ![Project Overview Diagram](IMG-20260311-WA0004.jpg)
 # Model Training
 Two machine learning models were used in this project:
-1-Logistic Regression – a baseline classification model.
-2-Random Forest Classifier – an ensemble learning model that usually performs better for classification problems.
+## Model Training
+
+Two machine learning models were used in this project:
+
+1. **Logistic Regression**  
+   - A baseline classification model used for predicting student performance.
+
+2. **Random Forest Classifier**  
+   - An ensemble learning model that combines multiple decision trees and usually provides better accuracy for classification tasks.
 # Model Evaluation
 ## Confusion Matrix
 The following metrics were used to evaluate the models:
