@@ -1,5 +1,6 @@
-# Student Performance Prediction 
 ## Project overview diagram 
+![Project Overview Diagram](IMG-20260311-WA0004.jpg)
+# Student Performance Prediction 
 This project predicts whether a student will pass or fail based on academic performance such as Math Score, Reading Score, and Writing Score along with demographic features.
 The goal is to analyze student data and identify the key factors that influence academic success using machine learning models.
 ## Project Overview
@@ -28,8 +29,9 @@ Dataset used: Student Performance Dataset
 9-Random Forest Model
 10-Model Evaluation
 # Exploratory Data Analysis
+
 ## Distribution of Math Scores
-This histogram shows the distribution of Math Scores among students and helps understand the performance trend.
+This histogram shows the distribution of Math Scor![Distribution of Math Scores](IMG-20260311-WA0003.jpg)es among students and helps understand the performance trend.
 ## Feature Correlation Heatmap
 This heatmap shows the correlation between different features such as Math, Reading, and Writing scores.
 # Model Training
